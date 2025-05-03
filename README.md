@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ben4mn-amadeus-mcp-badge.png)](https://mseep.ai/app/ben4mn-amadeus-mcp)
+
 # Amadeus MCP Server
 
 This MCP server integrates Amadeus flight search capabilities with Claude Desktop.
